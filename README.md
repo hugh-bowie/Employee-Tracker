@@ -1,6 +1,6 @@
 # Employee-Tracker
 CLI to view and manage the departments, roles, and employees in my company database
-                                                                                                                                                              
+`                                                                                                                                                              
                                                                                                                                                             
 EEEEEEEEEEEEEEEEEEEEEE                                            lllllll                                                                                   
 E::::::::::::::::::::E                                            l:::::l                                                                                   
@@ -44,7 +44,7 @@ TTTTTT  T:::::T  TTTTTTrrrrr   rrrrrrrrr     aaaaaaaaaaaaa       ccccccccccccccc
       T:::::::::T       r:::::r             a::::::::::aa:::a  cc:::::::::::::::ck::::::k   k:::::k   ee:::::::::::::e   r:::::r                            
       TTTTTTTTTTT       rrrrrrr              aaaaaaaaaa  aaaa    cccccccccccccccckkkkkkkk    kkkkkkk    eeeeeeeeeeeeee   rrrrrrr                            
                                                                                                                                                             
-                                                                                                                                                            
+                                                                                                                                               `;             
                                                                                                                                                             
                                                                                                                                                             
                                                                                                                                                             
