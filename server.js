@@ -81,6 +81,7 @@ TTTTTT  T:::::T  TTTTTTrrrrr   rrrrrrrrr     aaaaaaaaaaaaa       ccccccccccccccc
                                                                                                                                                             
                                                                                                                                                             
                                                                                                                                                             
-                                                                                                                                                            
-  
   `;
+	console.log(asciiArt);
+  	start();
+});
