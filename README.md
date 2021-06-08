@@ -8,6 +8,12 @@
  
 ## Description
 
+![employee-tracker-screenshot](./assets/employee.tracker.PNG)
+
 A node.js application that takes user input with inquirer to populate an employee tracker MySQL database displaying all company info.
 
-🎥 The full movie file showing functionality found here (https://drive.google.com/file/d/1BTqXw4wFj3bWPZISSX4_pIfK0WUbJ9M8/view)
+Bleow is a gif of it in live-action.
+
+![employee-tracker-gif](.assets/employee.gif)
+
+The full movie file showing functionality found here (https://drive.google.com/file/d/1BTqXw4wFj3bWPZISSX4_pIfK0WUbJ9M8/view)
