@@ -22,15 +22,11 @@ The full movie file showing functionality found here (https://drive.google.com/f
 ## Installation
   
 `npm init`
-  `npm install inquirer`
-    `npm install mysql2`
-        `npm install console-table`
-
-`npm install figlet`
-
-`npm install chalk`
-
-`npm install nodemon`
-
-`npm install validator`
   
+ `npm install inquirer mysql2 console.table validator express dotenv`
+
+
+  ## Useage
+  
+  at the command line in the root folder type:
+  `npm start`
