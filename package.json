@@ -1,6 +1,6 @@
 {
-	"name": "employeetracker",
-	"version": "1.0.0",
+	"name": "Emplyee-Tracker",
+	"version": "9.1.6.3",
 	"description": "homework 12 mysql employee tracker",
 	"main": "server.js",
 	"scripts": {
