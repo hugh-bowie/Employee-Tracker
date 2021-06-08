@@ -17,3 +17,20 @@ Bleow is a gif of it in live-action.
 ![employee-tracker-gif](./assets/employee.gif)
 
 The full movie file showing functionality found here (https://drive.google.com/file/d/1BTqXw4wFj3bWPZISSX4_pIfK0WUbJ9M8/view)
+
+
+## Installation
+  
+`npm init`
+  `npm install inquirer`
+    `npm install mysql2`
+        `npm install console-table`
+
+`npm install figlet`
+
+`npm install chalk`
+
+`npm install nodemon`
+
+`npm install validator`
+  
