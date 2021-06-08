@@ -5,7 +5,7 @@ VALUES
  ("Customer Service"),
  ("Engineering"),
  ("Legal");
-
+ 
 INSERT INTO role(title, salary, department_id)
 VALUES
 ("Lawyer",150000.00,5),
